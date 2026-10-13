@@ -1,0 +1,7 @@
+PHANTOME — version corrigée
+
+Publiez ensemble index.html, manifest.webmanifest et les trois images PNG.
+L’icône de l’application reprend exactement la quatrième image fournie.
+Les logos crypto déjà intégrés sont conservés; si une image manque, l’application tente le logo officiel répertorié sur CoinGecko. Une connexion Internet est nécessaire.
+
+Pour remplacer une ancienne icône sur téléphone, supprimez l’ancien raccourci puis réinstallez l’application.
